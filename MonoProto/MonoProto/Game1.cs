@@ -21,7 +21,7 @@ namespace MonoProto
 
 
         //確認テスト
-
+        //マスター統合用
 
         /// <summary>
         /// コンストラクタ
